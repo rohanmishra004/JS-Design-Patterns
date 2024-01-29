@@ -1,0 +1,5 @@
+PROXY DESGIN PATTERN
+
+1- Proxy Design pattern in JS is a structural pattern that allows you to provide a surrogate or placeholder for another object
+
+2- This can be useful for adding additional functionality to an object , controlling access to it or delaying its instatiation until its actually needed

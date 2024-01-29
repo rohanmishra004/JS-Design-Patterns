@@ -1,0 +1,5 @@
+VISITOR DESGIN PATTERN
+
+1- add or provide new method to that object without changing the object itself
+2- new functionality is kept in a seperate object called Visitor object
+3- Use case - extending some functionality of a library or framework

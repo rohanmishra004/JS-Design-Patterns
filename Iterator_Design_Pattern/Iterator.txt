@@ -1,0 +1,2 @@
+ITERATOR DESIGN PATTERN
+1- Loops over a collection of objects like arrays , trees , etcs

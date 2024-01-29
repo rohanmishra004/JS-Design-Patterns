@@ -1,0 +1,4 @@
+SINGLETON DESIGN PATTERN
+
+1-  Singleton Design pattern is Creational Design pattern
+2-  Use case where we want to create only one instance and provide a global point of access to that instance

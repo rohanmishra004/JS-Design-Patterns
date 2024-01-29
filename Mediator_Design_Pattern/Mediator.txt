@@ -1,0 +1,8 @@
+MEDIATOR DESIGN PATTERN
+
+1- Mediator design pattern has a mediator object that controls the flow of information between different objects
+
+2- Use Case - chat room
+
+3- Scenario - 3 objects needs to communicate with each other , instead of interacting directly , objects can send info to mediator which can handle complex logic
+

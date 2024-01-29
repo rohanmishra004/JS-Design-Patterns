@@ -1,0 +1,8 @@
+FACTORY DESIGN PATTERN
+
+1- Factory Design Pattern in JS is a creational Design pattern , use for creating objects without specifying the exact class of the object that will be created
+
+2- It provides a way to encapsulate the instatiation logic within a seperate method or class often referred to as factory
+
+
+
